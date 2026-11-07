@@ -1,0 +1,28 @@
+Junior Software Engineer — AI Products (Bengaluru, Hybrid)
+Company: Finlytics (fictional fintech startup)
+
+About the role
+We are building AI-powered tools that help small businesses manage their finances. You will work with
+our product team to build full-stack features and ship machine learning models to production.
+
+Responsibilities
+- Build responsive web interfaces with React and TypeScript
+- Design and develop REST APIs using Node.js or FastAPI
+- Build and evaluate machine learning models with Python, Pandas and scikit-learn
+- Integrate LLMs and RAG pipelines into customer-facing features
+- Containerize services with Docker and deploy them on AWS
+- Write unit tests and take part in code reviews and CI/CD workflows
+- Collaborate with designers and product managers in an Agile team
+
+Requirements
+- B.Tech / B.E. in Computer Science or a related field (2025 or 2026 graduates welcome)
+- Strong programming skills in Python and JavaScript
+- Experience with React, Node.js and a database such as MongoDB or PostgreSQL
+- Understanding of machine learning fundamentals and data analysis
+- Familiarity with Git and Linux
+- Good communication and problem solving skills
+
+Nice to have
+- Experience with Generative AI, LangChain or vector databases
+- Projects deployed to the cloud
+- Open-source contributions or hackathon achievements
